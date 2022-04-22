@@ -14,7 +14,8 @@ Later on some advanced components are being added
 * Advance power supply for motors
 
 The whole project is divided into two units:
-## Robotics : This module contains all the physical connection between different operators more related to electronics and mechenical engineering.
+## Robotics :
+This module contains all the physical connection between different operators more related to electronics and mechenical engineering.
 ### Circuit Architecture
 
 <p align="center">
