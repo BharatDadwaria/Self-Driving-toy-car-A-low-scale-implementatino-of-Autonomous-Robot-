@@ -16,10 +16,15 @@ Later on some advanced components are being added
 The whole project is divided into two units:
 * Robotics : This module contains all the physical connection between different operators more related to electronics and mechenical engineering.
 ### Circuit Architecture
-![MY MODEL](https://raw.githubusercontent.com/BharatDadwaria/Self-Driving-toy-car-A-low-scale-implementatino-of-Autonomous-Robot-/master/sdc_circuit.PNG)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BharatDadwaria/Self-Driving-toy-car-A-low-scale-implementatino-of-Autonomous-Robot-/master/sdc_circuit.PNG">
+</p>
 
 * Deep Learning
 
+<p align="center">
+  <img src="https://github.com/BharatDadwaria/Self-Driving-toy-car-A-low-scale-implementatino-of-Autonomous-Robot-/blob/master/IMG_20190416_130608122.jpg?raw=true">
+</p>
 
-![MY MODEL](https://github.com/BharatDadwaria/Self-Driving-toy-car-A-low-scale-implementatino-of-Autonomous-Robot-/blob/master/IMG_20190416_130608122.jpg?raw=true)
 ## Coming Soon
