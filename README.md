@@ -21,7 +21,7 @@ Later on some advanced components are being added
 
 The whole project is divided into two units:
 ## Robotics :
-This module contains all the physical connection between different operators more related to electronics and mechenical engineering.
+This module contains all the physical connection between different operators more related to electronics and mechenical engineering. Motors are being connected to the Raspberry pi for programming purpose through GPIO (General Purpose Input Output) pins on Raspberry Pi from H-Bridge. We added HC-SR04 (Ultrasonic sensor) to measure the objects in front of mobile robot and implimented Obstacle avoidance if any obstacles appeare in front of the mobile robot. In order to sense the environment more precisly we also added a Raspberry Pi 5MP Camera module and programmed it to capture the real-time videos and processed the real time image for our deep learning task. In order to make it completely mobile robot (wireless operationable) we remotly controlled the mobile robot from another computer.  
 ### Circuit Architecture
 
 <p align="center">
