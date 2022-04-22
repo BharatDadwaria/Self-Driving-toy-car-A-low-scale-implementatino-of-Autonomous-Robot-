@@ -2,7 +2,7 @@
 
 The main aim of this project to create a low scale implimentation of A Mobile robot to shift it towards complete autonomous mode. This project was final semester project in Integrated M.Sc Computer Science from Central University of Rajasthan under supervision of Dr. Muzzammil Hussain. I have built the whole mobile robot from scratch. The whole mobile robot contains many components from electronics to mechanical and Programmed through computers. The followings are the main component of the project:
 
-## Components
+#### Components
 * Raspebrry Pi
 * H-Bridge
 * HC-SR04 (Ultrasonic sensor)
